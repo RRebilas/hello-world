@@ -1,1 +1,3 @@
 Witaj świecie!
+Tutaj jest parę zmian które wprowadzam
+żeby przetestować git diff
